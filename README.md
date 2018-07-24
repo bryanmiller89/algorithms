@@ -1,3 +1,3 @@
 # algorithms
 
-Algorithmic challenges codes in JavaScript
+Algorithmic challenges coded in JavaScript
